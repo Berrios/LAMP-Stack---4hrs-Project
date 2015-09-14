@@ -1,0 +1,41 @@
+body{
+	background-color: lightblue !important;
+}
+
+form, h4,{
+	border: 1px solid black;
+	padding: 40px;
+	margin: 10px auto;
+	width: 400px;
+	border-radius: 5px;
+	background-color: white!important
+}
+
+input,textarea{
+	display: block;
+	margin: 0px auto;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+label{
+	display: block;
+}
+
+p{
+	text-align: center;
+}
+
+h1, h3{
+	text-align: center;
+	margin: 5px auto;
+}
+
+.notes{
+	border-bottom: 1px solid black;
+	margin: 0px auto;
+	width: 300px;
+}
+
+a{
+	text-decoration: none;
+}
